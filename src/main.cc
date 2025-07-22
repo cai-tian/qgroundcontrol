@@ -21,6 +21,9 @@
     #include <QtWidgets/QMessageBox>
     #include "RunGuard.h"
 #endif
+#ifdef _WIN32
+#include <windows.h>
+#endif
 
 #ifdef Q_OS_LINUX
 #ifdef Q_OS_ANDROID
