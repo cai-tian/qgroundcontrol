@@ -19,11 +19,10 @@ import QGroundControl
 import QGroundControl.FlightMap
 import QGroundControl.ScreenTools
 import QGroundControl.Controls
-import QGroundControl.FactSystem
+
 import QGroundControl.FactControls
-import QGroundControl.Palette
-import QGroundControl.Controllers
-import QGroundControl.ShapeFileHelper
+
+
 import QGroundControl.FlightDisplay
 import QGroundControl.UTMSP
 
